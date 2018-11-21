@@ -1,0 +1,104 @@
+body {
+background-color: coral;
+text-align: center;
+}
+.overview {
+  font-family: 'Charmonman';
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+ 
+.description {
+  font-family: 'Charmonman';
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.year {
+ font-family: 'Charmonman';
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+.places {
+  font-family: 'Amatic+SC';
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+h3 {
+  font-family: 'Amatic+SC';
+  color: white;
+  font-weight:bold;
+  text-align: center;
+  font-size: 50px;
+}
+h4{
+  font-family: 'Amatic+SC';
+  color: white;
+  font-weight:bold;
+  text-align: center;
+  font-size: 50px;
+}
+
+h5{
+  font-family: 'Charmonman';
+  color: white;
+  font-weight:bold;
+  text-align: center;
+  font-size: 30px;
+}
+h6{
+  font-family: "Charmonman";
+  color: white;
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  object-position: center;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 2.5vh;
+}
+
+nav li a:hover {
+  background-color: #111;
+  align-content:center;
+}
+ul{ 
+  list-style: none;
+  text-align:center;
+  object-position: center;
+}
+section {
+  margin: 20px auto;
+  align-items: center;
+  box-shadow: 0 4px 8px 0;
+  border-radius: 5px;
+  background-color: black;
+  width: 80%;
+  padding: 1% 2%;
+}
+.image img{
+  align-items: center;
+  height: 500px;
+  width: 400px;
+}
+.home img{
+  height:400px;
+  width: 400px;
+}
+.video video{
+  height:400px;
+  width:380px
+}
